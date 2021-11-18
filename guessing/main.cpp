@@ -1,5 +1,5 @@
 // https://replit.com/@andy8787main/guessing-Cai-Mi-Ma#main.cpp
-// https://github.com/nanshan-high-school/20211111-homework-basic
+// https://github.com/nanshan-high-school/20211111-homework-basic/pull/23/files
 #include <iostream>
 #include <stdlib.h> 
 #include <time.h>
